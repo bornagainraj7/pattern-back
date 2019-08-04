@@ -44,4 +44,5 @@ exports.daimond = (req, res) => {
             inArray = [];
         }
     res.json({data: myArray});
+    
 }
